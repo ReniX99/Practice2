@@ -1,0 +1,18 @@
+main div {
+  font-family: "Helvetica, Arial, sans-serif";
+}
+main div h1 {
+  color: #fb8500;
+  font-size: 24px;
+}
+main div button {
+  border: solid #123456 2px;
+  border-radius: 8px;
+  padding: 4px;
+}
+main div button:hover {
+  background-color: #afb29c;
+  cursor: pointer;
+}
+
+/*# sourceMappingURL=styles.css.map */
